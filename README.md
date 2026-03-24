@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Qutaiba Talal</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./contribution-snake.svg" />
+  <img alt="github-snake" src="./assets/contribution-snake.svg" />
+</picture>
 <h3 align="center">Backend developer with experience in Odoo ERP, hospital systems,pos,desktop systems, and mobile app integration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qutaibatalal&label=Profile%20views&color=0e75b6&style=flat" alt="qutaibatalal" /> </p>

@@ -2,6 +2,16 @@
 
 ### Backend Developer | Odoo ERP Specialist | Full-Stack Developer
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./contribution-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="./contribution-snake.svg" width="100%" />
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+%26+ERP+Developer;Odoo+18+Specialist;Python+%7C+FastAPI+%7C+Laravel;Building+Scalable+Business+Solutions" alt="Typing SVG" />
 </p>
@@ -168,12 +178,3 @@ Enterprise and point-of-sale systems.
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./contribution-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./contribution-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="./contribution-snake.svg" width="100%" />
-  </picture>
-</p>

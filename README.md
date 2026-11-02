@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Qutaiba Talal
 
-### Backend Engineer | Odoo ERP Specialist | Full-Stack Developer
+### Backend Developer | Odoo ERP Specialist | Full-Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+%26+ERP+Developer;Odoo+18+Specialist;Python+%7C+FastAPI+%7C+Laravel;Building+Scalable+Business+Solutions" alt="Typing SVG" />
@@ -34,6 +34,7 @@ With **4+ years of experience in Odoo development**, I work across ERP systems, 
 ## 🚀 Featured Projects
 
 ### 🏥 ZuClinic – Healthcare Management System
+
 Custom healthcare management solution built on Odoo.
 
 - Patient management and medical workflows.
@@ -42,6 +43,7 @@ Custom healthcare management solution built on Odoo.
 - OWL and QWeb interfaces.
 
 ### 🌍 Natiqo – Language Learning Platform
+
 An English language-learning platform designed for structured learning.
 
 - Python and FastAPI backend.
@@ -50,6 +52,7 @@ An English language-learning platform designed for structured learning.
 - Learning levels from A1 to C1.
 
 ### 🛒 ERP & POS Solutions
+
 Enterprise and point-of-sale systems.
 
 - Odoo ERP customization.
@@ -95,7 +98,7 @@ Enterprise and point-of-sale systems.
 ### Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,bootstrap,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,html,css,bootstrap,js,ts,react" />
 </p>
 
 - Flutter & Dart
@@ -105,7 +108,7 @@ Enterprise and point-of-sale systems.
 - HTML5 & CSS3
 - Responsive Interfaces
 
-### DevOps & Tools
+### DevOps & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
@@ -134,14 +137,10 @@ Enterprise and point-of-sale systems.
 
 ---
 
-## 🐍 Contribution Activity
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./contribution-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./contribution-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="./contribution-snake.svg" width="100%" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=qutaibatalal&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -165,4 +164,16 @@ Enterprise and point-of-sale systems.
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./contribution-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="./contribution-snake.svg" width="100%" />
+  </picture>
 </p>

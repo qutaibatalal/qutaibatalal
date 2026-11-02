@@ -1,36 +1,141 @@
-<h1 align="center">Hi 👋, I'm Qutaiba Talal</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./contribution-snake.svg" />
-  <img alt="github-snake" src="./assets/contribution-snake.svg" />
-</picture>
-<h3 align="center">Backend developer with experience in Odoo ERP, hospital systems,pos,desktop systems, and mobile app integration</h3>
+# Hi 👋, I'm Qutaiba Talal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qutaibatalal&label=Profile%20views&color=0e75b6&style=flat" alt="qutaibatalal" /> </p>
+### Backend Developer | Odoo ERP Specialist | Full-Stack & Mobile Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qutaibatalal" alt="qutaibatalal" /></a> </p>
+I build scalable backend systems, enterprise applications, and integrated business solutions. My experience spans Odoo ERP customization, POS systems, healthcare software, REST APIs, and cross-platform mobile applications.
 
-- 🔭 I’m currently working on [chara](https://github.com/abdullahoday710/Chara-Backend-Services)
+I enjoy solving real-world business problems through clean architecture, automation, and reliable software engineering.
 
-- 🌱 I’m currently learning **data analytics ,cybersecurity .**
+---
 
-- 👯 I’m looking to collaborate on [ERP systems](https://github.com/odoo/odoo)
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdullahoday710/Chara-Backend-Services](https://github.com/abdullahoday710/Chara-Backend-Services)
+- 🔭 Working on **ERP, POS, and enterprise software solutions**.
+- 💼 4+ years of experience in **Odoo ERP development**.
+- 🏥 Experienced in developing **healthcare, hospital management, and medical applications**.
+- 🛒 Building and integrating **Point of Sale (POS) systems** across web and mobile platforms.
+- 🚀 Developing backend services using **Python, FastAPI, Django, and Laravel**.
+- 📱 Building cross-platform mobile applications with **Flutter and Firebase**.
+- 🧪 Working with software quality assurance, API testing, and cross-platform automation.
+- 🌱 Currently expanding my knowledge in **Backend Engineering, Data Analytics, and Cybersecurity**.
+- 👯 Interested in collaborating on **ERP, Open Source, Backend, and Developer Tools**.
+- 📫 Reach me at: **qut.1027@gmail.com**
 
-- 📫 How to reach me **qut.1027@gmail.com**
+---
 
-- 📄 Know about my experiences [https://orange-dianemarie-53.tiiny.site/?mode=suggestions](https://orange-dianemarie-53.tiiny.site/?mode=suggestions)
+## 🚀 Featured Projects
 
-- ⚡ Fun fact **I started coding before I learned how to drive**
+### Natiqo
+An English language-learning platform inspired by modern language-learning applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- Backend development using Python and FastAPI.
+- Clean Architecture and modular design.
+- Asynchronous APIs and PostgreSQL.
+- Designed for structured learning from A1 to C1.
+
+### ZuClinic
+A healthcare management solution built on Odoo.
+
+- Custom Odoo modules and business workflows.
+- Medical examination and patient management.
+- Dental and ophthalmology workflows.
+- Custom interfaces using Odoo OWL and QWeb.
+
+### ERP & POS Solutions
+Enterprise resource planning and point-of-sale development.
+
+- Odoo customization and integration.
+- POS business logic and session management.
+- Web and mobile synchronization.
+- Kitchen management, table management, and order workflows.
+- Payment gateway integrations.
+
+---
+
+## 🛠️ Languages and Technologies
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,cs,java,dart,fastapi,laravel,django" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### ERP & Enterprise Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qutaibatalal&show_icons=true&locale=en&layout=compact" alt="qutaibatalal" /></p>
+- Odoo 18
+- Odoo ORM
+- OWL Framework
+- QWeb
+- PostgreSQL
+- REST API Development
+- JWT Authentication
+- Payment Gateway Integration
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qutaibatalal&show_icons=true&locale=en" alt="qutaibatalal" /></p>
+### Frontend & Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,html,css,bootstrap,js,ts,react" />
+</p>
+
+### DevOps & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
+### Testing & Automation
+
+- Playwright
+- API Testing
+- Integration Testing
+- POS Workflow Testing
+- Cross-platform Testing
+- Automated UI Testing
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qutaibatalal&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qutaibatalal&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qutaibatalal&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qutaibatalal&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qutaibatalal/qutaibatalal/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:qut.1027@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/qutaibatalal">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building software that solves real-world problems, one line of code at a time."</i>
+</p>
